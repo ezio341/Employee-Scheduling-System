@@ -5,7 +5,7 @@
 **EmployeeSch** : 
 1. Administrator's Website
 2. Apply Laravel Framework
-3. API service.
+3. Provide API service.
 
 **EmployeeUser** :
 1. Employee's Website
