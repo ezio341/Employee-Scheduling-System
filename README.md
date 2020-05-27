@@ -2,8 +2,12 @@
 
 **Advanced Web Project**
 
-**EmployeeSch**
-:Administrator's Website, Laravel Framework with API service.
+**EmployeeSch** : 
+1. Administrator's Website
+2. Apply Laravel Framework
+3. API service.
 
-**EmployeeUser**
-:Employee's Website, CodeIgniter Framework using API service from EmployeeSch.
+**EmployeeUser** :
+1. Employee's Website
+2. Apply CodeIgniter Framework 
+3. using API service from EmployeeSch.
